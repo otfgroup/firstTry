@@ -7,4 +7,8 @@ let me say something
 xcrun git config --global user.email メールアドレス
 xcrun git config --global user.name ユーザ名
 
+test step3 09041619——— 1
+
 try by dingyl
+
+test step3 09041619——— 2
