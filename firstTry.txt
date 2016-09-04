@@ -1,27 +1,3 @@
-Hello!
-You can use commands or tools to complete the same thing.
-
-ye~
-let me say something
-
-xcrun git config --global user.email メールアドレス
-xcrun git config --global user.name ユーザ名
-
-test step3 09041619——— 1
-
-try by dingyl
-
-
-——-add shen ———————————————
-
-test step3 09041619——— 2
-
-
-test09041615———
-
-
-yunan and dengzhongwei have modify this file
-
-
-test step3 09041619——— 6
+test001
+test002
 
