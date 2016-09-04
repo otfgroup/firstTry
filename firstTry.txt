@@ -8,3 +8,6 @@ xcrun git config --global user.email メールアドレス
 xcrun git config --global user.name ユーザ名
 
 try by dingyl
+
+
+test09041615———
